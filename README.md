@@ -1,2 +1,2 @@
 # Weather-temperature-finder
-Live link:https://eloquent-edison-7bf698.netlify.app/
+Live link:https://tender-joliot-a711ac.netlify.app/
